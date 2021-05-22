@@ -37,8 +37,8 @@ def fraction_to_binary_conversion():
 # Getting input from the user
 print("\nConversion of decimal number N into equivalent binary number up-to K precision after decimal point. ")
 
-decimal_number = float(input(print("\nEnter decimal number, N: ")))
-precision = int(input(print("Enter K: ")))
+decimal_number = float(input("\nEnter decimal number, N: "))
+precision = int(input("Enter K: "))
 
 binary_integral = []
 binary_fraction = ["."]
