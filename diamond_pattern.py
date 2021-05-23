@@ -1,4 +1,4 @@
-
+'''Written by kirthana'''
 # diamond pattern program
 
 list1 = ["*"]
