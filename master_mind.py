@@ -8,7 +8,7 @@ string_temp = str(temp)
 for index in range(4):
     four_digit_code[index] = string_temp[index]
     four_digit_code[index] = int(four_digit_code[index])
-print(four_digit_code)
+#print(four_digit_code)
 
 # Function to check if the guessed number matches the original 4 digit code
 def calculate():
